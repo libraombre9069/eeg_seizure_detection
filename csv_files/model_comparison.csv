@@ -1,0 +1,4 @@
+Model,TestAccuracy,TestPrecision,TestRecall,TestF1,CVMeanAccuracy,CVStdAccuracy
+SVM,92.5,86.9565217391304,100,93.0232558139535,96.5,2.85043856274784
+Logistic Regression,100,100,100,100,98.5,1.36930639376292
+Random Forest,100,100,100,100,100,0

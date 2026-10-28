@@ -1,0 +1,10 @@
+TemporalFeature,MaxAbsCorrelationWithGlobal
+Theta_Drift,0.319093907895401
+Theta_TemporalStd,0.491491387841219
+Alpha_MaxTransition,0.592810412991496
+Alpha_MeanTransition,0.602150176929813
+Beta_MeanTransition,0.665614672134042
+Delta_MaxTransition,0.688518576249523
+Delta_MeanTransition,0.701416909114346
+Gamma_MaxTransition,0.923435313761611
+Gamma_MeanTransition,0.935341659935439
